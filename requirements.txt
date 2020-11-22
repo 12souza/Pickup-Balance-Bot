@@ -1,0 +1,4 @@
+discord.py
+rHLDS
+gspread
+oauth2client
